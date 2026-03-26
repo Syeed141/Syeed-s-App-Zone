@@ -43,47 +43,15 @@ The goal of this project is to provide a simple yet powerful platform to showcas
 - HTML5  
 - CSS3  
 
----
 
-
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```
-git clone https://github.com/your-username/your-repo-name.git
-```
-
-### 2. Navigate to project folder
-```
-cd your-repo-name
-```
-
-### 3. Install dependencies
-```
-npm install
-```
-
-### 4. Run the project
-```
-npm run dev
-```
-
----
 
 ## 🌐 Live Demo
 
-👉 Add your live site link here  
+👉 http://syeeds-app-zone.surge.sh/ 
 
 ---
 
-## 📸 Screenshots
 
-_Add screenshots of your app here_
-
----
 
 ## 🤝 Contribution
 
@@ -96,20 +64,6 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Md. Shahriar Syeed**  
-GitHub: https://github.com/your-username  
-Email: shahariarsyeed2026@gmail.com  
-
----
-
-## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
