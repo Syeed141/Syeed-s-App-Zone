@@ -11,23 +11,37 @@ const Banner = () => {
 			<p>At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.
 				<br />Our goal is to turn your ideas into digital experiences that truly make an impact.
 			</p>
-			<div className='mt-10'>
-				<a href="https://play.google.com/store/games?hl=en" className='btn mr-4'
-					target="_blank"
-					rel="noopener noreferrer"
-				>
-					<FaGooglePlay />
-					Google Play
-				</a>
+			<div className='mt-10 flex justify-center gap-4 flex-wrap'>
+  
+  <a
+    href="https://play.google.com/store/games?hl=en"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex items-center gap-2 px-5 py-3 rounded-lg text-white font-semibold shadow-md transition-all duration-200"
+    style={{
+      background: 'linear-gradient(135deg, #22c55e, #16a34a)',
+      boxShadow: '0 0 10px rgba(34,197,94,0.3)'
+    }}
+  >
+    <FaGooglePlay className="text-lg" />
+    Google Play
+  </a>
 
-				<a href="https://www.apple.com/app-store/" className='btn'
-					target="_blank"
-					rel="noopener noreferrer"
-				>
-					<FaAppStoreIos />
-					App Store
-				</a>
-			</div>
+  <a
+    href="https://www.apple.com/app-store/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="flex items-center gap-2 px-5 py-3 rounded-lg text-white font-semibold shadow-md transition-all duration-200"
+    style={{
+      background: 'linear-gradient(135deg, #111827, #374151)',
+      boxShadow: '0 0 10px rgba(0,0,0,0.3)'
+    }}
+  >
+    <FaAppStoreIos className="text-lg" />
+    App Store
+  </a>
+
+</div>
 			<div className='mx-28 mt-10'>
 				<img src={hero} alt="hero" />
 			</div>
