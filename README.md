@@ -47,7 +47,7 @@ The goal of this project is to provide a simple yet powerful platform to showcas
 
 ## 🌐 Live Demo
 
-👉 http://syeeds-app-zone.surge.sh/ 
+👉 https://syeeds-app-zone.surge.sh/ 
 
 ---
 
